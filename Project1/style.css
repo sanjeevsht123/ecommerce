@@ -1,0 +1,98 @@
+#count{
+    color: red;
+    position: relative;
+    top: 200px;
+    left:200px;
+    font-size:100px;
+
+}
+
+#bg1{
+    height: 100%;
+    width: 1400px;
+    position:relative;
+    top:-150px;
+
+    z-index: -1;
+}
+
+
+#click{
+     
+    font-family: serif;
+    
+    text-align: center;
+    position: relative;
+    left: 500px;
+    top: 200px;
+}
+
+.big{
+    color: teal;
+    background-color: tomato;
+    font-size: 60px;
+}
+.small{
+    color: tomato;
+    background-color: teal;
+    font-size: 30px;
+}
+
+.font{
+    color: coral;
+   
+    font-size: 20px;
+    
+}
+
+
+#form{
+    width: 400px;
+    height: 100px;
+    background-color: tomato;
+    box-shadow: 2px 2px 12px black;
+    border: 3px solid teal;
+    font-family:sans-serif;
+    padding: 15px;
+    margin: 25px;
+    border-radius: 5px;
+
+}
+
+#username,#password{
+    width: 200px;
+    margin: 5px;
+    border: 3px solid sienna;
+
+}
+
+#submit{
+    text-align: center;
+    position: relative;
+    left: 70px;
+    margin: 10px;
+}
+
+#btn{
+    margin: 10px;
+     border: 2px solid orange;
+     border-radius: 5px;
+     box-shadow: 2px 2px 12px black;
+     position: relative;
+     left: 100px;
+}
+
+#item{
+    background-color: azure;
+    color: blueviolet;
+    font-family: sans-serif;
+    width: 400px;
+    height: auto;
+    margin: 25px;
+    padding: 12px;
+    border: 2px solid teal;
+    box-shadow: 2px 2px 12px black;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}

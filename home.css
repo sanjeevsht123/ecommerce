@@ -1,0 +1,62 @@
+#count{
+
+    color: tomato;
+    font-family:'Times New Roman';
+    font-size: 300px;
+    text-align: center;
+    position:relative;
+    top: -660px;
+}
+
+#bg{
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    left: 160px;
+}
+
+
+#click{
+    width: 200px;
+    color: red;
+    font-family:'Times New Roman';
+    position: relative;
+    left: 200px;
+    top:-700px;
+}
+
+.para{
+    font-family: 'Times New Roman';
+    font-size: larger;
+    background-color: red;
+    color: teal;
+    position: relative;
+    left: 200px;
+    top: -600px;
+    width: 200px;
+}
+
+.para1{
+    font-family: serif;
+    font-size: small;
+    background-color: teal;
+    color: red;
+    float: left;
+}
+
+
+.ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.hide{
+width: 200px;
+height: 400px;
+display: none;
+}
+.show{
+    width: 200px;
+    height: 400px;
+    display: block;
+}
